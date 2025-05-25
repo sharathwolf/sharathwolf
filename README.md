@@ -1,6 +1,6 @@
 # 💫 About Me:
 💻 I know my way around:  <br>- **Languages**: Java, Python, SQL  <br>- **Web**: HTML, CSS  <br>- **Tools**: Linux, Git, APIs
-
+# Reach out at : sharathsharubr2k@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharath-br-engineer/) 
