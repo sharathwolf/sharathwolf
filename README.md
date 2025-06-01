@@ -1,4 +1,4 @@
-# 💫 About Me:
+##  About Me:
 💻 I know my way around:  <br>- **Languages**: Java, Python, SQL  <br>- **Web**: HTML, CSS  <br>- **Tools**: Linux, Git, APIs
 ## Reach out me at : sharathsharubr2k@gmail.com
 
