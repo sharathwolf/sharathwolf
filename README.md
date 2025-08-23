@@ -1,5 +1,5 @@
 ##  About Me:
-💻 I know my way around:  <br>- **Languages**: Java, Python, SQL, Springboot, React js  <br>- **Web**: HTML, CSS  <br>- **Tools**: Linux, Git, APIs
+💻 I know my way around:  <br>- **Languages**: Java, Python, SQL, Springboot, React js  <br>- **Web**: HTML, CSS, javascript  <br>- **Tools**: Linux, Git, APIs
 ## Reach out me at : sharathsharubr2k@gmail.com
 
 ## 🌐 Socials:
